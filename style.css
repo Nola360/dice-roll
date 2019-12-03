@@ -1,0 +1,37 @@
+.wrapper {
+  /* display: flex; */
+  margin: 0 auto;
+  width: 50%;
+  /* text-align: center; */
+  background: rgb(11, 146, 18);
+  /* transform: translateY(500%); */
+}
+
+.dice-wrapper {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+
+button {
+  margin-top: 20px;
+}
+h2 {
+  text-align: center;
+  color: white;
+  font-family: "futura";
+  text-transform: uppercase;
+}
+
+
+div.dice {
+  float: left;
+  width: 32px;
+  background: #fff;
+  border: #999 1px solid;
+  font-size: 24px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  
+}
